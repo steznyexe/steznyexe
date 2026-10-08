@@ -112,7 +112,6 @@ Se quiser conversar sobre a história por trás dele, ou sobre o livro que estou
 <br/>
 
 <div align="center">
-
-<img src="footer.svg" alt="Até a próxima, viajante" width="100%"/>
-
+  <img src="./assets/footer.svg" width="100%" />
 </div>
+
